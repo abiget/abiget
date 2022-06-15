@@ -11,7 +11,7 @@ I am a machine learning and Deep learning researcher 😎 from Ethiopia 🇪🇹
 - 🌱 I’m currently working on my MSc thesis research in deep learning for counterfeit detection.
 - 💞️ I’m looking to collaborate on deep learning research and eager to learn new things.
 - ☺️  Sometimes, I work as a freelace web developer...
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/anteneh-getachew-5738961b7)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/anteneh-getachew-5738961b7)
 
 ---
 
