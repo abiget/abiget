@@ -23,6 +23,14 @@ I'm a Computer Engineering graduate and current MSc student in Data Science at t
 
 ---
 
+### 📦 Open Source
+
+| Package | Description | Install |
+|---|---|---|
+| [pureenv](https://github.com/abiget/pureenv) | Typed environment variable parsing for Python — zero dependencies, pure stdlib, auto-loads `.env` | `pip install pureenv` |
+
+---
+
 ### 🚀 Featured Projects
 
 | Project | Description | Stack |
