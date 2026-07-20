@@ -39,6 +39,7 @@ I'm a Computer Engineering graduate and current MSc student in Data Science at t
 | [🎯 Bayesian Active Learning](https://github.com/datrento/cnn-mc-dropout-active-learning) | CNN with MC Dropout, 6 query strategies on CIFAR-10 — Consensus Entropy best at **72.56%** | PyTorch, CNN |
 | [⚡ Parallel Conjugate Gradient (MPI)](https://github.com/datrento/parallel-conjugate-gradient) | Pipelined MPI solver reducing communication from O(N³) to O(N²) — benchmarked at 96 ranks | C, MPI |
 | [🎬 BiRank vs Matrix Factorization](https://github.com/abiget/birank-and-matrix-factorization-recommendation) | Movie recommendation on MovieLens 100K — BiRank: **57% HR@10**, 17% NDCG@10 vs 48%, 7.2% for MF | Python, Pandas, NumPy |
+| [🤖 GPT-2 from Scratch](https://github.com/abiget/gpt2_from_scratch) | End-to-end GPT-2 reimplementation from scratch — tokenizer, transformer blocks, training loop, and text generation workflow and instruction finetuning | Python, PyTorch, Jupyter Notebook |
 
 ---
 
@@ -76,11 +77,10 @@ I'm a Computer Engineering graduate and current MSc student in Data Science at t
 
 <div align="center">
 
-![Anteneh's GitHub stats](https://github-readme-stats.vercel.app/api?username=abiget&show_icons=true&theme=default&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abiget&layout=compact&theme=default&hide_border=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abiget&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abiget&theme=default)
 
 </div>
-
 ---
 
 <div align="center">
