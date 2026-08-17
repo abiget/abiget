@@ -20,6 +20,7 @@ I'm a Computer Engineering graduate and current MSc student in Data Science at t
 - 🎓 Selected for the **Google Developer ML Bootcamp (SSA 2022)** — completed Deep Learning & TensorFlow Developer Specializations, funded by Google
 - 🛠️ 2 years as a Software Developer — built the **EPPD government portal** (EU & GIZ funded) for Ethiopia's Ministry of Trade
 - 📍 Based in Trento, Italy · Seeking a **Data Science Internship**
+- 🧠 Currently working on a thesis on LLM inference optimization
 
 ---
 
@@ -28,6 +29,7 @@ I'm a Computer Engineering graduate and current MSc student in Data Science at t
 | Package | Description | Install |
 |---|---|---|
 | [pureenv](https://github.com/abiget/pureenv) | Typed environment variable parsing for Python — zero dependencies, pure stdlib, auto-loads `.env` | `pip install pureenv` |
+| [cminbpe](https://github.com/abiget/cminbpe) | Minimal BPE tokenizer implementation with a C backend for fast training and tokenization | `pip install cminbpe` |
 
 ---
 
