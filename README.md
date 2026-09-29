@@ -42,6 +42,7 @@ I'm a Computer Engineering graduate and current MSc student in Data Science at t
 | [⚡ Parallel Conjugate Gradient (MPI)](https://github.com/datrento/parallel-conjugate-gradient) | Pipelined MPI solver reducing communication from O(N³) to O(N²) — benchmarked at 96 ranks | C, MPI |
 | [🎬 BiRank vs Matrix Factorization](https://github.com/abiget/birank-and-matrix-factorization-recommendation) | Movie recommendation on MovieLens 100K — BiRank: **57% HR@10**, 17% NDCG@10 vs 48%, 7.2% for MF | Python, Pandas, NumPy |
 | [🤖 GPT-2 from Scratch](https://github.com/abiget/gpt2_from_scratch) | End-to-end GPT-2 reimplementation from scratch — tokenizer, transformer blocks, training loop, and text generation workflow and instruction finetuning | Python, PyTorch, Jupyter Notebook |
+| [🧠 GPT-2 Mixture of Experts](https://github.com/abiget/gpt2-moe-from-scratch) | GPT-2 language model from scratch with a Mixture-of-Experts architecture — tokenizer, transformer blocks, sparse expert routing, training loop, and text generation workflow | Python, PyTorch, Jupyter Notebook |
 
 ---
 
